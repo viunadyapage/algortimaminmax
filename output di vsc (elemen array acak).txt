@@ -1,0 +1,83 @@
+Untuk ukuran data 10, array yang dihasilkan:
+Array: [3245, 4827, 8132, 9693, 1275, 803, 9970, 2590, 26, 429]... (Menampilkan 10 elemen pertama)
+Masukkan nilai minimum yang dihitung manual:
+> 26
+Masukkan nilai maksimum yang dihitung manual:
+> 9970
+
+Hasil:
+Iteratif: Min=26, Max=9970, Waktu=0.016451 ms, Akurasi=100%
+Rekursif: Min=26, Max=9970, Waktu=0.020027 ms, Akurasi=100%
+Binary Search: Min=26, Max=9970, Waktu=0.008106 ms, Akurasi=100%
+
+Untuk ukuran data 20, array yang dihasilkan:
+Array: [3143, 339, 8628, 3438, 5347, 6541, 7180, 6635, 3470, 1006]... (Menampilkan 10 elemen pertama)
+Masukkan nilai minimum yang dihitung manual:
+> 339
+Masukkan nilai maksimum yang dihitung manual:
+> 8628
+
+Hasil:
+Iteratif: Min=339, Max=8628, Waktu=0.010490 ms, Akurasi=100%
+Rekursif: Min=339, Max=8628, Waktu=0.013828 ms, Akurasi=100%
+Binary Search: Min=339, Max=8628, Waktu=0.005245 ms, Akurasi=100%
+
+Untuk ukuran data 100, array yang dihasilkan:
+Array: [3241, 4689, 9161, 6461, 3269, 4978, 6273, 3977, 1095, 843]... (Menampilkan 10 elemen pertama)
+Masukkan nilai minimum yang dihitung manual:
+> 169
+Masukkan nilai maksimum yang dihitung manual:
+> 9838
+
+Hasil:
+Iteratif: Min=169, Max=9838, Waktu=0.018597 ms, Akurasi=100%
+Rekursif: Min=169, Max=9838, Waktu=0.041723 ms, Akurasi=100%
+Binary Search: Min=169, Max=9838, Waktu=0.013828 ms, Akurasi=100%
+
+Untuk ukuran data 500, array yang dihasilkan:
+Array: [4037, 2949, 8363, 8249, 7975, 4206, 7909, 3071, 5987, 3832]... (Menampilkan 10 elemen pertama)
+Masukkan nilai minimum yang dihitung manual:
+> 3
+Masukkan nilai maksimum yang dihitung manual:
+> 9959
+
+Hasil:
+Iteratif: Min=3, Max=9959, Waktu=0.041723 ms, Akurasi=100%
+Rekursif: Min=3, Max=9959, Waktu=0.191212 ms, Akurasi=100%
+Binary Search: Min=3, Max=9959, Waktu=0.048876 ms, Akurasi=100%
+
+Untuk ukuran data 1000, array yang dihasilkan:
+Array: [3655, 5152, 130, 3270, 4499, 24, 277, 5871, 6870, 7886]... (Menampilkan 10 elemen pertama)
+Masukkan nilai minimum yang dihitung manual:
+> 8
+Masukkan nilai maksimum yang dihitung manual:
+> 9993
+
+Hasil:
+Iteratif: Min=8, Max=9993, Waktu=0.066280 ms, Akurasi=100%
+Rekursif: Min=8, Max=9993, Waktu=0.418901 ms, Akurasi=100%
+Binary Search: Min=8, Max=9993, Waktu=0.147581 ms, Akurasi=100%
+
+Untuk ukuran data 5000, array yang dihasilkan:
+Array: [2399, 605, 5524, 7325, 6508, 7809, 6558, 6103, 6180, 1285]... (Menampilkan 10 elemen pertama)
+Masukkan nilai minimum yang dihitung manual:
+> 2
+Masukkan nilai maksimum yang dihitung manual:
+> 9998
+
+Hasil:
+Iteratif: Min=2, Max=9998, Waktu=0.265360 ms, Akurasi=100%
+Rekursif: Min=2, Max=9998, Waktu=1.725674 ms, Akurasi=100%
+Binary Search: Min=2, Max=9998, Waktu=0.550032 ms, Akurasi=100%
+
+Untuk ukuran data 10000, array yang dihasilkan:
+Array: [4858, 5672, 8835, 4217, 5013, 2174, 3159, 1072, 5411, 669]... (Menampilkan 10 elemen pertama)
+Masukkan nilai minimum yang dihitung manual:
+> 1
+Masukkan nilai maksimum yang dihitung manual:
+> 9999
+
+Hasil:
+Iteratif: Min=1, Max=9999, Waktu=0.411510 ms, Akurasi=100%
+Rekursif: Min=1, Max=9999, Waktu=3.281355 ms, Akurasi=100%
+Binary Search: Min=1, Max=9999, Waktu=1.159906 ms, Akurasi=100%
